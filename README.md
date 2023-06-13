@@ -15,10 +15,10 @@ For details of what is required to submit a proceedings please check https://pro
 Published as Volume 209 by the Proceedings of Machine Learning Research on 13 June 2023.
 
 Volume Edited by:
-  * Bobak J Mortazavi
+  * Bobak J. Mortazavi
   * Tasmie Sarker
   * Andrew Beam
-  * Joyce C Ho
+  * Joyce C. Ho
 
 Series Editors:
   * Neil D. Lawrence

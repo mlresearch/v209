@@ -14,16 +14,16 @@ issn: 2640-3498
 id: CHIL-2023
 month: 0
 cycles: false
-bibtex_editor: Mortazavi, Bobak J and Sarker, Tasmie and Beam, Andrew and Ho, Joyce
-  C
+bibtex_editor: Mortazavi, Bobak J. and Sarker, Tasmie and Beam, Andrew and Ho, Joyce
+  C.
 editor:
-- given: Bobak J
+- given: Bobak J.
   family: Mortazavi
 - given: Tasmie
   family: Sarker
 - given: Andrew
   family: Beam
-- given: Joyce C
+- given: Joyce C.
   family: Ho
 title: Proceedings of Machine Learning Research
 description: |
@@ -33,10 +33,10 @@ description: |
   Published as Volume 209 by the Proceedings of Machine Learning Research on 13 June 2023.
 
   Volume Edited by:
-    Bobak J Mortazavi
+    Bobak J. Mortazavi
     Tasmie Sarker
     Andrew Beam
-    Joyce C Ho
+    Joyce C. Ho
 
   Series Editors:
     Neil D. Lawrence
