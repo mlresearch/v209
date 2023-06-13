@@ -1,0 +1,84 @@
+---
+booktitle: Proceedings of the Conference on Health, Inference, and Learning
+shortname: CHIL
+volume: '209'
+year: '2023'
+start: 2023-06-22
+end: 2022-06-24
+published: 2023-06-13
+conference_number: '4'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CHIL-2023
+month: 0
+cycles: false
+bibtex_editor: Mortazavi, Bobak J and Sarker, Tasmie and Beam, Andrew and Ho, Joyce
+  C
+editor:
+- given: Bobak J
+  family: Mortazavi
+- given: Tasmie
+  family: Sarker
+- given: Andrew
+  family: Beam
+- given: Joyce C
+  family: Ho
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Conference on Health, Inference, and Learning
+    Held in 415 Main Street, Cambridge, MA USA 02142 on 22 June to 24 June 2022
+
+  Published as Volume 209 by the Proceedings of Machine Learning Research on 13 June 2023.
+
+  Volume Edited by:
+    Bobak J Mortazavi
+    Tasmie Sarker
+    Andrew Beam
+    Joyce C Ho
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 22 Jun--24 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v209"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v209
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v209
+email: ''
+conference:
+  name: Conference on Health, Inference, and Learning
+  url: https://www.chilconference.org/
+  location: 415 Main Street, Cambridge, MA USA 02142
+  dates: []
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v209/CHIL2023.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v209/CHIL2023.bib
